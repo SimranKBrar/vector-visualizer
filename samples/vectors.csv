@@ -1,0 +1,7 @@
+id,embedding,label,category
+v1,"[0.11,0.92,0.44,0.33]",Alpha helix,protein
+v2,"[0.14,0.88,0.41,0.36]",Beta sheet,protein
+v3,"[-0.72,0.18,0.61,0.22]",Sunset,image
+v4,"[-0.68,0.24,0.58,0.19]",Dusk,image
+v5,"[0.55,-0.63,0.09,0.71]",Quicksort,code
+v6,"[0.51,-0.58,0.15,0.66]",Mergesort,code

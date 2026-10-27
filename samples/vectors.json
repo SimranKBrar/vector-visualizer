@@ -1,0 +1,7 @@
+[
+  {"id": "doc-1", "embedding": [0.12, 0.98, 0.31, 0.77], "metadata": {"title": "Intro to vectors", "cluster": "docs", "year": 2024}},
+  {"id": "doc-2", "values": [0.15, 0.91, 0.28, 0.72], "metadata": {"title": "Embedding basics", "cluster": "docs", "year": 2023}},
+  {"id": "img-1", "embedding": [-0.84, 0.22, 0.55, -0.1], "metadata": {"title": "Sunset photo", "cluster": "images"}},
+  {"id": "img-2", "values": [-0.79, 0.31, 0.48, -0.05], "metadata": {"title": "Dusk photo", "cluster": "images"}},
+  {"id": "code-1", "embedding": [0.61, -0.44, 0.12, 0.65], "metadata": {"title": "Sort function", "cluster": "code"}}
+]

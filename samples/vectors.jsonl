@@ -1,0 +1,6 @@
+{"id": "a1", "embedding": [0.2, 0.8, 0.1], "metadata": {"topic": "sports"}}
+{"id": "a2", "embedding": [0.25, 0.75, 0.12], "metadata": {"topic": "sports"}}
+{"id": "b1", "embedding": [0.9, 0.1, 0.4], "metadata": {"topic": "cooking"}}
+{"id": "b2", "embedding": [0.85, 0.18, 0.35], "metadata": {"topic": "cooking"}}
+{"id": "c1", "embedding": [0.4, 0.4, 0.8], "topic": "travel"}
+{"id": "c2", "embedding": [0.45, 0.38, 0.75], "topic": "travel"}
